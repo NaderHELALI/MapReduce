@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.AssemblyInfo.cs
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.exe
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.deps.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\bin\Debug\netcoreapp3.1\MapReduce.pdb
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.dll
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce\MapReduce\obj\Debug\netcoreapp3.1\MapReduce.pdb

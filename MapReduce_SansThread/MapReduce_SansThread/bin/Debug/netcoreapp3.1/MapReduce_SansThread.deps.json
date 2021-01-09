@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MapReduce_SansThread/1.0.0": {
+        "runtime": {
+          "MapReduce_SansThread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MapReduce_SansThread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

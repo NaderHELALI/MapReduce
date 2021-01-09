@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.exe
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.deps.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.runtimeconfig.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.dll
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\bin\Debug\netcoreapp3.1\MapReduce_SansThread.pdb
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\obj\Debug\netcoreapp3.1\MapReduce_SansThread.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\obj\Debug\netcoreapp3.1\MapReduce_SansThread.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\obj\Debug\netcoreapp3.1\MapReduce_SansThread.AssemblyInfo.cs
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\obj\Debug\netcoreapp3.1\MapReduce_SansThread.dll
+C:\Users\Asus\Documents\Cours Esilv\A4\S1\Design Pattern\Ex2\MapReduce_SansThread\MapReduce_SansThread\obj\Debug\netcoreapp3.1\MapReduce_SansThread.pdb
